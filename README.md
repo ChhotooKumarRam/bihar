@@ -1,4 +1,4 @@
 # bihar
 This is my first Git Repository.
 <br>
-Iam Chhotoo Kumar Ram
+I am Chhotoo Kumar Ram
